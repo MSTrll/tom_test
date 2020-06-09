@@ -1,0 +1,97 @@
+09-Jun-2020 21:05:23.246 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.54
+09-Jun-2020 21:05:23.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 3 2020 14:06:10 UTC
+09-Jun-2020 21:05:23.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.54.0
+09-Jun-2020 21:05:23.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+09-Jun-2020 21:05:23.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+09-Jun-2020 21:05:23.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+09-Jun-2020 21:05:23.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-11.0.6
+09-Jun-2020 21:05:23.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.6+8-LTS
+09-Jun-2020 21:05:23.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+09-Jun-2020 21:05:23.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54
+09-Jun-2020 21:05:23.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54
+09-Jun-2020 21:05:23.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+09-Jun-2020 21:05:23.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+09-Jun-2020 21:05:23.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+09-Jun-2020 21:05:23.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\conf\logging.properties
+09-Jun-2020 21:05:23.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Jun-2020 21:05:23.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+09-Jun-2020 21:05:23.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Jun-2020 21:05:23.277 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+09-Jun-2020 21:05:23.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54
+09-Jun-2020 21:05:23.287 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54
+09-Jun-2020 21:05:23.287 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\temp
+09-Jun-2020 21:05:23.287 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+09-Jun-2020 21:05:23.291 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+09-Jun-2020 21:05:23.295 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+09-Jun-2020 21:05:23.311 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+09-Jun-2020 21:05:23.424 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+09-Jun-2020 21:05:23.838 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+09-Jun-2020 21:05:23.869 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1356 ms
+09-Jun-2020 21:05:23.987 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+09-Jun-2020 21:05:23.987 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.54
+09-Jun-2020 21:05:24.023 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\docs]
+09-Jun-2020 21:05:24.768 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [333] milliseconds.
+09-Jun-2020 21:05:24.818 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\docs] has finished in [795] ms
+09-Jun-2020 21:05:24.822 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\examples]
+09-Jun-2020 21:05:25.606 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\examples] has finished in [788] ms
+09-Jun-2020 21:05:25.606 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\host-manager]
+09-Jun-2020 21:05:25.667 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\host-manager] has finished in [61] ms
+09-Jun-2020 21:05:25.683 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\manager]
+09-Jun-2020 21:05:25.746 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\manager] has finished in [63] ms
+09-Jun-2020 21:05:25.746 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\ROOT]
+09-Jun-2020 21:05:25.794 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\ROOT] has finished in [48] ms
+09-Jun-2020 21:05:25.806 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+09-Jun-2020 21:05:25.822 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1943 ms
+09-Jun-2020 21:08:46.026 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/C:/Users/lnovs/Downloads/apache-tomcat-8.5.54-windows-x64/apache-tomcat-8.5.54/conf/tomcat-users.xml]
+09-Jun-2020 21:08:47.588 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+09-Jun-2020 21:08:48.053 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+09-Jun-2020 21:08:48.167 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+09-Jun-2020 21:08:48.178 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+09-Jun-2020 21:09:05.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.54
+09-Jun-2020 21:09:05.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 3 2020 14:06:10 UTC
+09-Jun-2020 21:09:05.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.54.0
+09-Jun-2020 21:09:05.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+09-Jun-2020 21:09:05.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+09-Jun-2020 21:09:05.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+09-Jun-2020 21:09:05.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-11.0.6
+09-Jun-2020 21:09:05.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.6+8-LTS
+09-Jun-2020 21:09:05.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+09-Jun-2020 21:09:05.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54
+09-Jun-2020 21:09:05.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54
+09-Jun-2020 21:09:05.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+09-Jun-2020 21:09:05.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+09-Jun-2020 21:09:05.300 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+09-Jun-2020 21:09:05.300 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\conf\logging.properties
+09-Jun-2020 21:09:05.300 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Jun-2020 21:09:05.302 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+09-Jun-2020 21:09:05.303 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Jun-2020 21:09:05.303 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+09-Jun-2020 21:09:05.305 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54
+09-Jun-2020 21:09:05.312 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54
+09-Jun-2020 21:09:05.312 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\temp
+09-Jun-2020 21:09:05.313 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+09-Jun-2020 21:09:05.313 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+09-Jun-2020 21:09:05.315 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+09-Jun-2020 21:09:05.320 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+09-Jun-2020 21:09:05.385 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+09-Jun-2020 21:09:05.757 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+09-Jun-2020 21:09:05.803 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1140 ms
+09-Jun-2020 21:09:05.959 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+09-Jun-2020 21:09:05.963 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.54
+09-Jun-2020 21:09:05.994 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\docs]
+09-Jun-2020 21:09:07.191 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [626] milliseconds.
+09-Jun-2020 21:09:07.236 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\docs] has finished in [1,244] ms
+09-Jun-2020 21:09:07.237 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\examples]
+09-Jun-2020 21:09:08.305 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\examples] has finished in [1,068] ms
+09-Jun-2020 21:09:08.306 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\host-manager]
+09-Jun-2020 21:09:08.402 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\host-manager] has finished in [96] ms
+09-Jun-2020 21:09:08.403 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\manager]
+09-Jun-2020 21:09:08.486 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\manager] has finished in [83] ms
+09-Jun-2020 21:09:08.486 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\ROOT]
+09-Jun-2020 21:09:08.572 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lnovs\Downloads\apache-tomcat-8.5.54-windows-x64\apache-tomcat-8.5.54\webapps\ROOT] has finished in [86] ms
+09-Jun-2020 21:09:08.591 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+09-Jun-2020 21:09:08.623 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 2820 ms
+09-Jun-2020 21:09:42.286 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+09-Jun-2020 21:09:42.743 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+09-Jun-2020 21:09:42.891 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+09-Jun-2020 21:09:42.902 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
